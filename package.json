@@ -1,0 +1,22 @@
+{
+  "name": "AngularUI",
+  "version": "1.0.0",
+  "description": "\"AngularUI POC Application\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kalaikaran/AngularUI.git"
+  },
+  "keywords": [
+    "AngularUI"
+  ],
+  "author": "Kalaikaran K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalaikaran/AngularUI/issues"
+  },
+  "homepage": "https://github.com/kalaikaran/AngularUI"
+}
